@@ -1,0 +1,11 @@
+final changeLanguageAppBar = {"eng": "Change Language", "id": "Ubah Bahasa"};
+final myProfileText = {"eng": "My Profile", "id": "Profil Saya"};
+final accountText = {"eng": "Account", "id": "Akun"};
+final darkMode = {"eng": "Dark Mode", "id": "Mode Gelap"};
+final orderMenu = {"eng": "Orders", "id": "Pesanan"};
+final promoMenu = {"eng": "Enter Promo Code", "id": "Masukkan Kode Promo"};
+final inviteMenu = {"eng": "Invite Friends", "id": "Undang Teman"};
+final voucherMenu = {"eng": "My Voucher", "id": "Voucher Saya"};
+final languageMenu = {"eng": "Change Language", "id": "Ubah Bahasa"};
+final helpMenu = {"eng": "Help", "id": "Bantuan"};
+final addressMenu = {"eng": "Saved Addresses", "id": "Alamat Tersimpan"};
